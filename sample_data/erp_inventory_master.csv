@@ -1,0 +1,5 @@
+sku,categoria,stock_actual,stock_min,costo_unitario
+SKU-A,ENVASE,1452,347,5.49
+SKU-B,FRESCO,1468,402,3.62
+SKU-C,SECO,756,563,8.29
+SKU-D,OTROS,1289,369,3.36
